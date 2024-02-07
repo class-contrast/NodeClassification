@@ -1,5 +1,5 @@
 # ClassContrast
-![](https://github.com/class-contrast/NodeClassification/blob/main/landmark%20(2).pdf)
+[landmark.pdf](https://github.com/class-contrast/NodeClassification/files/14189998/landmark.pdf)
 
 # Overview
 # Requirement
