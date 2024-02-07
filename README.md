@@ -6,6 +6,9 @@
 
 ClassContrast is an innovative machine learning model for node classification that utilizes a contrastive approach, effectively integrating local neighborhood information and domain features of the nodes. This repository contains the code for the ClassContrast paper.
 # Requirement
+ClassContrast depends on the followings:
+1. ogb
+2. 
 # Datasets
 # Regenerating CC Model Outputs
 
